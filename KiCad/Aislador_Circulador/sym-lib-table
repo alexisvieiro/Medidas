@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Girador_Circulador)(type Legacy)(uri ${KIPRJMOD}/Girador_Circulador.lib)(options "")(descr ""))
+)
